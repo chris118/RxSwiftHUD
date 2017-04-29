@@ -1,0 +1,6 @@
+github "ReactiveX/RxSwift" ~> 3.0
+
+
+# for HUD
+github "RxSwiftCommunity/RxSwiftUtilities"
+github "pkluz/PKHUD" ~> 4.0
